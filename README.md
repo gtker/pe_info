@@ -12,6 +12,8 @@ This utility relies almost entirely on self reported data it is not accurate on 
 
 # Usage
 
+Grab the [newest release](https://github.com/gtker/pe_info/releases).
+
 ```
 Usage: pe_info [OPTIONS] [FILES]...
 
